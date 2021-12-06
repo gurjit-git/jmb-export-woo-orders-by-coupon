@@ -1,0 +1,20 @@
+#gs_coupon_orders_data label {
+    width: 90px;
+    margin: 4px 6px 0 0 !important;
+}
+#gs_coupon_orders_data .form-field {
+    padding: 0 !important;
+}
+#gs_coupon_orders_data input[type=text]{
+    width: 64% !important;
+}
+.order_status_group label {
+    width: 140px !important;
+}
+.totals{
+    background: #ccc;
+}
+.totals th, .totals td{
+    font-weight: 800;
+    color: #000 !important;
+}
